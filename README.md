@@ -1,5 +1,9 @@
 # Sales Performance Analysis & Reporting | Microsoft Excel
 
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## Project Overview
 
 This project focuses on analysing multi-year sales performance and developing an interactive Sales Dashboard and business report using Microsoft Excel.
